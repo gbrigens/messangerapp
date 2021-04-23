@@ -8,3 +8,7 @@
 - Run this new command to execute the run operation `docker exec -it <imageid> sh`.
 - Lastly, run `npm start`.
 - A list of URL will be shown to access the application on the browser.
+
+
+#Test web application 
+- Username: `testOne` Password: `testone`.
